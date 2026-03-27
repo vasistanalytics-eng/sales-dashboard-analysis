@@ -45,3 +45,9 @@ This project uses a Superstore sales dataset containing order-level information 
 
 ## Conclusion
 This project demonstrates skills in data cleaning, exploratory data analysis, data visualization, dashboard building, and business insight generation using Python and Power BI.
+
+## Project Files
+
+The full project files, including the Power BI dashboard and cleaned dataset, are available here
+
+[Google Drive Folder](https://drive.google.com/drive/folders/1BhGep5Pq-AiVv1UBvRYQhxE6GzeTblS_?usp=drive_link)
